@@ -1,5 +1,8 @@
 # TensorFlow Lite image classification Android example application
 
+## Result
+<img src="Dog.jpg?raw=true" />
+
 ## Overview
 
 This is an example application for [TensorFlow Lite](https://tensorflow.org/lite)
